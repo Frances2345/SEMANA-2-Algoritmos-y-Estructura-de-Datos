@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73d0ec52931ad074196f1ed3b929f561, type: 3}
+  m_Name: 3 Aura Terrorifica
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  id: 3
+  nombre: Aura terrorifica
+  descripcion: "Reduce el da\xF1o de los ataques cuerpo a cuerpo recibidos"
+  costo: 5
+  nivelRequerido: 20
