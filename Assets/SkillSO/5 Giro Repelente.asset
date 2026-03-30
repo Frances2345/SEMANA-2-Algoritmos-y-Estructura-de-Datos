@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 5 Giro Repelente
   m_EditorClassIdentifier: Assembly-CSharp::Skill
   id: 5
-  nombre: Giro repelente
+  nombre: Giro Repelente
   descripcion: Crea un circulo que ataca a los enemigos alrededor de un radio
   costo: 5
   nivelRequerido: 8

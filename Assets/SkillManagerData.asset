@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3d835e1cceba54468c6906eea40caf1, type: 3}
   m_Name: SkillManagerData
   m_EditorClassIdentifier: Assembly-CSharp::SkillManager
-  todasLasHabilidades: []
+  todasLasHabilidades:
+  - {fileID: 11400000, guid: a59222fc96af23f43a67f4b210ecdcf8, type: 2}
+  - {fileID: 11400000, guid: d25e6019c343d7d4784460eef12c2266, type: 2}
+  - {fileID: 11400000, guid: 14697bb0d6b70a84dbe97e6cbfafd68f, type: 2}
+  - {fileID: 11400000, guid: 0acbbea84518d3b4dba9158621cf722c, type: 2}
+  - {fileID: 11400000, guid: 609b8d800c87f1343b86bd2d108c94ed, type: 2}

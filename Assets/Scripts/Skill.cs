@@ -11,6 +11,6 @@ public class Skill : ScriptableObject
 
     public void Ejecutar()
     {
-        Debug.Log("Habilidad usada" + nombre);
+        Debug.Log("Habilidad usada " + nombre);
     }
 }
