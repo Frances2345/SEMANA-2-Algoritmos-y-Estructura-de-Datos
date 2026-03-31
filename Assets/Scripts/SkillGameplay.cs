@@ -66,8 +66,8 @@ public class SkillGameplay : MonoBehaviour
             MensajeExtra.text = "[INFO]: " + encontrada.nombre + " detectada en DB";
         }
 
-        bool maestrasExist = GameUtils.TryFind(listaHabilidades, x => x.nivelRequerido > 10, out _);
-        MensajeExtra.text += "\n¿Habilidades de alto nivel?: " + (maestrasExist ? "SÍ" : "NO");
+        bool quedanPorAprender = GameUtils.TryFind(listaHabilidades, x => x.nivelRequerido > nivelJugador, out _);
+        MensajeExtra.text = "¿Quedan habilidades por aprender?: " + (quedanPorAprender ? "SÍ" : "NO");
     }
     
 }
