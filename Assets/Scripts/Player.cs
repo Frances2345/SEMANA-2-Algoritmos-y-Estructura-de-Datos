@@ -16,3 +16,7 @@ public class Player :IDamageable
         Debug.Log("Recibi daño!");
     }
 }
+
+
+
+

@@ -16,11 +16,6 @@ public class GameManager : MonoBehaviour
 
         GameUtils.Process<Player>(player, x => x.Move());
 
-        //LAMBDA EXPRESSION
-     
-       
-       
-
 
         Action test1 = () => Debug.Log("ayuda!");
 

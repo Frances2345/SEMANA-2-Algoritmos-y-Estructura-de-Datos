@@ -14,3 +14,6 @@ public class Skill : ScriptableObject
         Debug.Log("Habilidad Disponible " + nombre);
     }
 }
+
+
+

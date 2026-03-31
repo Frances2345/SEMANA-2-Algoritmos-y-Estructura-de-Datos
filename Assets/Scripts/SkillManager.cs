@@ -6,3 +6,14 @@ public class SkillManager : ScriptableObject
 {
     public List<Skill> todasLasHabilidades;
 }
+
+
+
+
+
+
+
+
+
+
+
