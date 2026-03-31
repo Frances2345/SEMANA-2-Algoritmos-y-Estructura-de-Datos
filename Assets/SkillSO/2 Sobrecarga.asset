@@ -16,4 +16,4 @@ MonoBehaviour:
   nombre: Sobrecarga
   descripcion: "Aumenta el Da\xF1o en 20%, pero tu salud es drenada un 7%"
   costo: 8
-  nivelRequerido: 18
+  nivelRequerido: 8

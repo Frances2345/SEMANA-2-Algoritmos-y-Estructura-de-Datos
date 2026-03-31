@@ -16,4 +16,4 @@ MonoBehaviour:
   nombre: Golpe Certero
   descripcion: Ignora las habilidades de elusion e intocable
   costo: 12
-  nivelRequerido: 15
+  nivelRequerido: 4

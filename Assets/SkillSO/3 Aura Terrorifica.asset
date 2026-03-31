@@ -16,4 +16,4 @@ MonoBehaviour:
   nombre: Aura terrorifica
   descripcion: "Reduce el da\xF1o de los ataques cuerpo a cuerpo recibidos"
   costo: 5
-  nivelRequerido: 20
+  nivelRequerido: 12

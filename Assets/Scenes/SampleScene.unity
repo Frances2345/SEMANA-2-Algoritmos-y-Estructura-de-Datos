@@ -1416,7 +1416,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SkillGameplay
   database: {fileID: 11400000, guid: 6f9c002de214b3640bd7f22b6ee9956f, type: 2}
   nivelJugador: 2
-  nombreJugador: PeruanoPower
+  nombreJugador: Peruano Power
   NombreyNivel: {fileID: 1480995446}
   Habilidades: {fileID: 1910676480}
   MensajeExtra: {fileID: 1350323707}
@@ -1658,7 +1658,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 330585546}
   - {fileID: 410087041}
+  - {fileID: 1549810166}
   - {fileID: 832575519}
   - {fileID: 62463849}
   - {fileID: 2009904370}
-  - {fileID: 1549810166}

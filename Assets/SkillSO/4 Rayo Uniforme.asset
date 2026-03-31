@@ -16,4 +16,4 @@ MonoBehaviour:
   nombre: Rayo Uniforme
   descripcion: Ataque debil pero teledirigdo al oponente mas cercano
   costo: 3
-  nivelRequerido: 4
+  nivelRequerido: 16

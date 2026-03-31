@@ -16,4 +16,4 @@ MonoBehaviour:
   nombre: Giro Repelente
   descripcion: Crea un circulo que ataca a los enemigos alrededor de un radio
   costo: 5
-  nivelRequerido: 8
+  nivelRequerido: 22
